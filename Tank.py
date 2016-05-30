@@ -1,6 +1,7 @@
 ''' Tanks - beta version by Darwin I and Darwin II
     ver 0.1 intitial beta
-    ver 0.2 add robot tanks                      '''
+    ver 0.2 add robot tanks
+    Version in Documents\GitHub\Python\Tank.py'''
 
 import pygame, sys, time, random,math
 from pygame.locals import *
