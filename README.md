@@ -1,4 +1,4 @@
 # Python
-Some of my python code
+No python code in this repository yet.
 
-See the tank program.
+See the tank repository for a simple tank shooter game.
